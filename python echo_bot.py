@@ -1,6 +1,6 @@
 from telegram.ext import Updater
 
-updater = Updater(token='1311225516:AAGHHcCZfoAoQEs9nR2XPUp1h-iCm78hLTA', use_context=True)
+updater = Updater(token='1A', use_context=True)
 
 dispatcher = updater.dispatcher
 
